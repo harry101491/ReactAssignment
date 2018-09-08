@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+## React Assignment 
+The Learning of React with Udemy. This is the First Assignment in the course
 
-## Assignment Testing React App
-Testing React for Frontend Development
+## Author
+* **Harshit Pareek** - Software Engineer (NYU Grad) :sunglasses: :computer:
+<br />Looking for new opportunites - contact via mail - hars.pareek@nyu.edu
